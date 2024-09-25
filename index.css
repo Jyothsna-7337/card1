@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(37, 35, 35);
+    color: aliceblue;
+}
+.heading{
+    font-size: x-large;
+    text-align: center;
+    color: aliceblue;
+}
+.card{
+    padding: 5px 0px;
+    width: 30%;
+    border: 2px solid white;
+    margin: 5% 3%;
+    
+}
+img{
+    max-width: 80%;
+    padding: 10%;
+}
+h1{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+p{
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.card2{
+    padding: 5px 0px;
+    width: 30%;
+    border: 2px solid white;
+    margin: 5% 1.5%;
+}
+.card3{
+    padding: 5px 0px;
+    width: 30%;
+    border: 2px solid white;
+    margin: 5% 1.5%;
+}
+.row{
+    display: flex;
+}
